@@ -96,7 +96,7 @@ clear
     echo -e "\033[1;32mhttp://$IP:8888/server/online"
     echo ""
     echo -e "\033[1;37m◈─────────────────────────────────◈"
-    echo -e "\033[1;37m©️ LOFAQ™ VPS MANAGER SCRIPT "
+    echo -e "\033[1;37m    ©️ LOFAQ™ VPS MANAGER SCRIPT "
     echo -e "\033[1;37m◈─────────────────────────────────◈"
     echo ""
     echo -e "\033[1;33mAfter the defined time of the user \033[1;32m$nome"
