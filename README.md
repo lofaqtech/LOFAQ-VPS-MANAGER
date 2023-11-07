@@ -12,17 +12,17 @@ ___OUR LINKS___
 [![Main Website](https://lofaq.com/images/logo.png)](https://www.lofaq.com)
 [![VPS Website](https://lofaq.com/images/logo.png)](https://vps.lofaq.com)
 [![Tutorial Platform](https://lofaq.com/images/logo.png)](https://tut.lofaq.com)
-[![Config Bot](https://lofaq.com/images/logo.png)](https://t.me/theconfigbot)
-[![Telegram Channel](https://lofaq.com/images/logo.png)](https://t.me/lofaqgh)
-[![Telegram Group](https://lofaq.com/images/logo.png)](https://t.me/lofaqtech)
+[![Config Bot](https://user-images.githubusercontent.com/83800532/143572065-ca450924-e72b-4041-ab31-3798618973f4.png)](https://t.me/theconfigbot)
+[![Telegram Channel](https://user-images.githubusercontent.com/83800532/143572065-ca450924-e72b-4041-ab31-3798618973f4.png)](https://t.me/lofaqgh)
+[![Telegram Group](https://user-images.githubusercontent.com/83800532/143572065-ca450924-e72b-4041-ab31-3798618973f4.png)](https://t.me/lofaqtech)
 [![Facebook](https://lofaq.com/images/logo.png)](https://facebook.com/lofaqtech)
 [![Instagram](https://lofaq.com/images/logo.png)](https://instagram.com/lofaqtech)
 [![Twitter](https://lofaq.com/images/logo.png)](https://twitter.com/lofaqtech)
 [![Reddit](https://lofaq.com/images/logo.png)](https://reddit.com/lofaqtech)
 [![Tiktok](https://lofaq.com/images/logo.png)](https://tiktok.com/@lofaqtech)
 [![Youtube](https://lofaq.com/images/logo.png)](https://youtube.com/@lofaq)
-[![Movies & Series](https://lofaq.com/images/logo.png)](https://t.me/lofaqmovies)
-[![Side Hustle](https://lofaq.com/images/logo.png)](https://t.me/legitsidehustles)
+[![Movies & Series](https://user-images.githubusercontent.com/83800532/143572065-ca450924-e72b-4041-ab31-3798618973f4.png)](https://t.me/lofaqmovies)
+[![Side Hustle](https://user-images.githubusercontent.com/83800532/143572065-ca450924-e72b-4041-ab31-3798618973f4.png)](https://t.me/legitsidehustles)
 
 ## ㅤ
 
