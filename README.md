@@ -1,4 +1,4 @@
-## ◇────── LOFAQ VPS MANAGER ───────◇
+## ◇────── LOFAQ™ VPS MANAGER ───────◇
 
 ㅤ
 <p align="left">
