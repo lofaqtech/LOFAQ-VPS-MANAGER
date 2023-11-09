@@ -14,7 +14,7 @@ menu() {
         msg="◇──────────────────◇\n"
         msg+="<b>•🔹• HELLO WELCOME •🔹•</b>\n"
         msg+="◇──────────────────◇\n\n"
-        msg+="ssh account $ 10/Month"
+        msg+="ssh account $ 2/Month"
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
         --text "$(echo -e $msg)" \
         --reply_markup "$keyboard1" \
